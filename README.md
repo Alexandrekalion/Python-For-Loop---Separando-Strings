@@ -50,4 +50,4 @@ Este repositorio representa uma etapa inicial de pratica com estruturas de repet
 
 ## Autoria
 
-Desenvolvido por Michele Santana - Kalion Tecnologia.
+Desenvolvido por Alexandre Santana dos Santos - Kalion Tecnologia.
